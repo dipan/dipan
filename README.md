@@ -1,4 +1,14 @@
-### Hi 👋 I'm Dipan Mandal
+## <p align="center">Hi 👋 I'm Dipan Mandal</p>
+
+---
+
+### 🖥 About me:
+
+Software developer and an engineer with **6 years** of experience in the **Information Technology Industry**.
+
+### 🛠 Languages & Tools:
+
+![image](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
 
 <!--
 **dipan/dipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
