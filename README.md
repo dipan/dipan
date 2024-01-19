@@ -8,12 +8,11 @@ Software developer and an engineer with **6 years** of experience in the **Infor
 
 ### 🛠 Languages & Tools:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="300" height="auto">
-![image]()
-![image](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)
-![image](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
-![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![image](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="100" height="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="Java" width="100" height="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Java" width="100" height="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="100" height="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Java" width="100" height="auto">
 
 <!--
 **dipan/dipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
