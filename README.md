@@ -22,6 +22,7 @@ Software developer and an engineer with **6 years** of experience in the **Infor
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Java" width="30" height="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="Java" width="30" height="auto">
 </p>
 
 > Version Control System
