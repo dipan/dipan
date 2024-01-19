@@ -28,7 +28,7 @@ Software developer and an engineer with **6 years** of experience in the **Infor
 > Version Control System
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Java" width="30" height="auto">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Java" width="30" height="auto">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Java" width="30" height="auto">
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="Java" width="30" height="auto">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" alt="Java" width="30" height="auto">
