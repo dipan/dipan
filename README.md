@@ -8,7 +8,8 @@ Software developer and an engineer with **6 years** of experience in the **Infor
 
 ### 🛠 Languages & Tools:
 
-![image](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="300" height="auto">
+![image]()
 ![image](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg)
 ![image](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
 ![image](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
